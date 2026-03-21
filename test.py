@@ -30,3 +30,7 @@ elif type(a[0])==type(dict()):
 else:
     print(a)
     print(type(a[0]))
+
+a=[i for i in range(10)]
+p=random.sample(a,3)
+print(p)
