@@ -54,3 +54,6 @@ print(type(b[0]))
 strs="123.90"
 # print(int(strs))#这里会报错，因为字符串的内容是一个浮点数形式的字符串，不能直接转换为整数
 print(int(float(strs)))#如果要将一个浮点数形式的字符串转换为整数，那么需要先将其转换为浮点数，再将浮点数转换为整数
+str1="what can i say"
+str1+="what"
+print(str1)
