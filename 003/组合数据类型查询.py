@@ -13,5 +13,6 @@ print(sum(tuples))
 #最大值最小值
 print(max(lists))
 print(min(tuples))
+# print(max(dicts.values()))#求字典的最大值最小值只能求字典的值的最大值最小值，不能求字典的键的最大值最小值
 
 

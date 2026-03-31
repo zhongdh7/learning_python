@@ -57,3 +57,6 @@ print(int(float(strs)))#如果要将一个浮点数形式的字符串转换为�
 str1="what can i say"
 str1+="what"
 print(str1)
+dicts={"name":"小明","age":18}
+dicts["id"]=1001
+print(dicts)
