@@ -60,3 +60,5 @@ print(str1)
 dicts={"name":"小明","age":18}
 dicts["id"]=1001
 print(dicts)
+import numpy
+print(numpy.__version__)  # 应显示 1.x，如 1.26.4
